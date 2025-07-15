@@ -11,5 +11,5 @@
     - cd C:\Users\smlab\SeokminWorkSpace\asdf\TeamLabStudy  
       => 결과 : PS C:\Users\smlab\SeokminWorkSpace\asdf\TeamLabStudy>
 4) python 실행파일이름.py 입력 후 엔터
-    - PS C:\Users\smlab\SeokminWorkSpace\asdf\TeamLabStudy> python Helloworld.py  
+   - PS C:\Users\smlab\SeokminWorkSpace\asdf\TeamLabStudy> python Helloworld.py  
         Hello, World!
