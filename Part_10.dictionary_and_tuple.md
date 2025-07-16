@@ -3,7 +3,7 @@
 
 ### 딕셔너리 수정하기
 
-dict = {'one' : 1, 'two', : 2, 'three' : 3}
+dict = {'one' : 1, 'two' : 2, 'three' : 3}
 
 - 추가
   - dict['four'] = 4
